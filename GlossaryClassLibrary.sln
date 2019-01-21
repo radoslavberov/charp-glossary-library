@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlossaryClassLibrary", "GlossaryClassLibrary\GlossaryClassLibrary.csproj", "{3C91B351-4800-44AE-8284-934088CA2147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlossaryREST", "GlossaryREST\GlossaryREST.csproj", "{3DB78900-8955-4FE9-BC83-10081241EB5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C91B351-4800-44AE-8284-934088CA2147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C91B351-4800-44AE-8284-934088CA2147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C91B351-4800-44AE-8284-934088CA2147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C91B351-4800-44AE-8284-934088CA2147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DB78900-8955-4FE9-BC83-10081241EB5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB78900-8955-4FE9-BC83-10081241EB5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB78900-8955-4FE9-BC83-10081241EB5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB78900-8955-4FE9-BC83-10081241EB5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CF58B72-7ACC-437F-8DBA-46C9A461C92D}
+	EndGlobalSection
+EndGlobal
